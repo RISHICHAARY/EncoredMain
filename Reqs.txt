@@ -1,0 +1,34 @@
+Company:
+->Name
+->Punch Line
+->Launch Year
+->Vission
+->Mission
+
+Members:
+->Profile Photo
+->Name
+->Date Of Birth
+->Email
+->Contact Number
+->Post / Role
+->Punch Line / Quote
+
+Course / Internships / Others:
+->Name
+->Cost
+->Description
+->Start Date
+->End Date
+->Vacancies
+->Current Occupancy
+->rating
+
+
+Offres:
+->Name
+->Base offer Condition
+->Start Date
+->End Date
+->Percentage Discount / Amount Discount
+->Terms and Condtion
